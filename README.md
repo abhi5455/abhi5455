@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Stats</h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5455&layout=compact&theme=nightowl" alt=abhi5455 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi5455&show_icons=true&locale=en&theme=tokyonight" alt="abhi5455" /></p>

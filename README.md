@@ -1,7 +1,6 @@
 <h3 align="left">ABOUT ME:</h3>
-<h3 align="left">▪️ Currently a Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi5455&label=Profile%20views&color=0e75b6&style=flat" alt="abhi5455" /> </p>
+🌱 Currently a **Computer Engineering Student**
 
 💬 Ask me about **Java, C and DataStructures**
 
@@ -28,6 +27,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi5455&theme=juicyfresh" alt="abhi5455" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi5455&label=Profile%20views&color=0e75b6&style=flat" alt="abhi5455" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="left">

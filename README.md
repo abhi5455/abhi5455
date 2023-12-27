@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi5455&show_icons=true&locale=en&layout=compact" alt="abhi5455" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi5455&show_icons=true&locale=en&layout=compact" alt="abhi5455" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi5455&show_icons=true&locale=en" alt="abhi5455" /></p>
 

@@ -1,6 +1,6 @@
 <h3 align="left">ABOUT ME:</h3>
 
-🌱 Currently a **Computer Engineering Student**
+🌱  **Currently a Computer Engineering Student**
 
 💬 Ask me about **Java, C and DataStructures**
 

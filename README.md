@@ -21,11 +21,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5455&layout=compact&theme=" alt=abhi5455 />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi5455&show_icons=true&locale=en&layout=compact" alt="abhi5455" /></p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi5455&show_icons=true&locale=en&theme=" alt="abhi5455" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi5455&show_icons=true&locale=en" alt="abhi5455" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi5455&theme=" alt="abhi5455" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi5455&" alt="abhi5455" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="left">

@@ -26,7 +26,7 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi5455&theme=highcontrast" alt="abhi5455" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi5455&theme=" alt="abhi5455" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi5455&theme=juicyfresh" alt="abhi5455" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="left">

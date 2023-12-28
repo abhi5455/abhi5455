@@ -1,4 +1,5 @@
-<h3 align="left">ABOUT ME:</h3>
+<!--h3 align="left">ABOUT ME:</h3-->
+# About Me:
 
 🌱  **Currently a Computer Engineering Student**
 
@@ -8,7 +9,9 @@
 <a href="https://github.com/abhi5455" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/panthera_tigriz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/_Abhiram_Ashok_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<!--/div><h3 align="left">Connect with me:</h3-->
+# Connect with me:
+
 <p align="left">
 <a href="https://stackoverflow.com/users/22901036" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="22901036" height="30" width="40" /></a><a href="https://twitter.com/_Abhiram_Ashok_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="_Abhiram_Ashok_" height="30" width="40" /></a><a href="https://instagram.com/panthera_tigriz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="panthera_tigriz_" height="30" width="40" /></a><a href="https://fb.com/Abhiram Ashok" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Abhiram Ashok" height="30" width="40" /></a></p
 
@@ -18,7 +21,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
-</div><h3 align="left">STATS</h3>
+<!--/div><h3 align="left">STATS</h3-->
+# STATS
+
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5455&layout=compact&theme=nightowl" alt=abhi5455 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi5455&show_icons=true&locale=en&theme=tokyonight" alt="abhi5455" /></p>

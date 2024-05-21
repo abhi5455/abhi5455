@@ -1,6 +1,8 @@
-<h1 align="center">Hi there, I'm Abhiram✨</h3>
-
-<h2></h2>
+<h1 align="center">Hi there, I'm Abhiram✨
+  <div>
+  <img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="100"/>
+  </div>
+</h3>
 
 🌱  **Currently a Computer Engineering Student**
 

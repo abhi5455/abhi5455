@@ -4,8 +4,8 @@
   </div>
 </h3>
 
-🌱  **Currently a Computer Engineering Student**<br><br>
-🔭  **Working on some very Exciting Project**<br><br>
+🌱  **Currently a Computer Engineering Student**<br>
+🔭  **Working on some very Exciting Project**<br>
 💬 Ask me about **Java, C and DataStructures**<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panthera_tigriz_) 

@@ -4,9 +4,9 @@
   </div>
 </h3>
 
-🌱  **Currently a Computer Engineering Student**
-
-💬 Ask me about **Java, C and DataStructures**
+🌱  **Currently a Computer Engineering Student**<br><br>
+🔭  **Working on some very Exciting Project**<br><br>
+💬 Ask me about **Java, C and DataStructures**<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panthera_tigriz_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-ashok-4807002b5) 

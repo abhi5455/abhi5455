@@ -21,7 +21,7 @@
 ## Languages and Tools:
 <!--/div><h3 align="left">Languages and Tools:</h3-->
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,java,c,py,html,mysql,css,javascript,nodejs,react,vite,tailwindcss,typescript,nextjs"/>
+<img src="https://skillicons.dev/icons?i=git,java,c,py,html,mysql,css,javascript,nodejs,linux,react,vite,tailwindcss,typescript,nextjs" height="40"/>
 </p>
 
 <!--/div><h3 align="left">STATS</h3-->
